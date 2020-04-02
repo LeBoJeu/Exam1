@@ -1,2 +1,3 @@
 ecriture d un message
 conflit en local
+confilt sur le git
